@@ -1,4 +1,7 @@
 {
-  "can_run":false,
-  "demo":1
+    "code":0,
+    data:
+      {
+        "can_run":false
+      }
 }
